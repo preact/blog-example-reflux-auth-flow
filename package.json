@@ -1,7 +1,7 @@
 {
   "name": "my-project",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "app/main.jsx",
   "scripts": {
     "start": "node server-local.js | webpack-dev-server --port 8081 --hot --devtool eval --display-error-details --progress --colors --content-base build"
